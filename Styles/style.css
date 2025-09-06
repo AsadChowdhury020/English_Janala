@@ -1,0 +1,9 @@
+/* Set all the fonts to poppins */
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.bangla_font{
+  font-family: "Hind Siliguri", sans-serif;
+}
+
